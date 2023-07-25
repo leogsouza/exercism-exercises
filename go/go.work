@@ -11,6 +11,7 @@ use (
 	./leap
 	./party-robot
 	./two-fer
+	./vehicle-purchase
 	./weather-forecast
 	./welcome-to-tech-palace
 )
