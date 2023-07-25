@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./acronym
+	./annalyns-infiltration
+	./bob
+	./clock
+	./gigasecond
+	./hello-world
+	./leap
+	./two-fer
+	./weather-forecast
+)
