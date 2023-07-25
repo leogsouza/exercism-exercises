@@ -9,6 +9,8 @@ use (
 	./gigasecond
 	./hello-world
 	./leap
+	./party-robot
 	./two-fer
 	./weather-forecast
+	./welcome-to-tech-palace
 )
