@@ -4,6 +4,7 @@ use (
 	./acronym
 	./annalyns-infiltration
 	./bob
+	./cars-assemble
 	./clock
 	./gigasecond
 	./hello-world
