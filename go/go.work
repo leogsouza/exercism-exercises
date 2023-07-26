@@ -10,6 +10,7 @@ use (
 	./gigasecond
 	./hello-world
 	./leap
+	./need-for-speed
 	./party-robot
 	./two-fer
 	./vehicle-purchase

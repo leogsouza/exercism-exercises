@@ -98,7 +98,7 @@ func TestFirstTurn(t *testing.T) {
 		dealer string
 		want   string
 	}{
-		/*{
+		{
 			name:   "pair of aces",
 			hand:   hand{card1: "ace", card2: "ace"},
 			dealer: "ace",
@@ -127,7 +127,7 @@ func TestFirstTurn(t *testing.T) {
 			hand:   hand{card1: "five", card2: "five"},
 			dealer: "ace",
 			want:   "H",
-		},*/
+		},
 		{
 			name:   "blackjack with ace for dealer",
 			hand:   hand{card1: "ace", card2: "jack"},
@@ -140,7 +140,7 @@ func TestFirstTurn(t *testing.T) {
 			dealer: "queen",
 			want:   "S",
 		},
-		/*{
+		{
 			name:   "blackjack with five for dealer",
 			hand:   hand{card1: "ace", card2: "ten"},
 			dealer: "five",
@@ -289,7 +289,7 @@ func TestFirstTurn(t *testing.T) {
 			hand:   hand{card1: "two", card2: "two"},
 			dealer: "five",
 			want:   "H",
-		},*/
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
