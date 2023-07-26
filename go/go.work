@@ -5,6 +5,7 @@ use (
 	./annalyns-infiltration
 	./blackjack
 	./bob
+	./card-tricks
 	./cars-assemble
 	./clock
 	./gigasecond
