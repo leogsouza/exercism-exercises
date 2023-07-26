@@ -3,6 +3,7 @@ go 1.20
 use (
 	./acronym
 	./annalyns-infiltration
+	./bird-watcher
 	./blackjack
 	./bob
 	./card-tricks
