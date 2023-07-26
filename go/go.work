@@ -3,6 +3,7 @@ go 1.20
 use (
 	./acronym
 	./annalyns-infiltration
+	./blackjack
 	./bob
 	./cars-assemble
 	./clock
