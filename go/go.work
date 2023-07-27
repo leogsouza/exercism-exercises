@@ -11,6 +11,7 @@ use (
 	./clock
 	./gigasecond
 	./hello-world
+	./lasagna-master
 	./leap
 	./need-for-speed
 	./party-robot
