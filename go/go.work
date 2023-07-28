@@ -12,6 +12,7 @@ use (
 	./cars-assemble
 	./clock
 	./gigasecond
+	./gross-store
 	./hello-world
 	./interest-is-interesting
 	./lasagna-master
