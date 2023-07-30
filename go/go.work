@@ -10,6 +10,7 @@ use (
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
+	./chessboard
 	./clock
 	./gigasecond
 	./gross-store
