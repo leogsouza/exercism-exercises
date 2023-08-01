@@ -12,6 +12,7 @@ use (
 	./cars-assemble
 	./chessboard
 	./clock
+	./election-day
 	./gigasecond
 	./gross-store
 	./hello-world
