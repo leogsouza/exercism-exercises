@@ -22,6 +22,7 @@ use (
 	./leap
 	./logs-logs-logs
 	./need-for-speed
+	./parsing-log-files
 	./party-robot
 	./two-fer
 	./vehicle-purchase
