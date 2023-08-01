@@ -13,12 +13,14 @@ use (
 	./chessboard
 	./clock
 	./election-day
+	./elons-toys
 	./gigasecond
 	./gross-store
 	./hello-world
 	./interest-is-interesting
 	./lasagna-master
 	./leap
+	./logs-logs-logs
 	./need-for-speed
 	./party-robot
 	./two-fer
