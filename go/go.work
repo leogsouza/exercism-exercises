@@ -23,6 +23,7 @@ use (
 	./lasagna-master
 	./leap
 	./logs-logs-logs
+	./meteorology
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
