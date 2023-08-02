@@ -27,6 +27,7 @@ use (
 	./parsing-log-files
 	./party-robot
 	./sorting-room
+	./the-farm
 	./two-fer
 	./vehicle-purchase
 	./weather-forecast
