@@ -25,6 +25,7 @@ use (
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
+	./sorting-room
 	./two-fer
 	./vehicle-purchase
 	./weather-forecast
